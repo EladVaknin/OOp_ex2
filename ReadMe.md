@@ -100,12 +100,57 @@ For the purpose of creating the GUI we implemented the myPanel and myFarme class
 
 ***classes*** : 
  
- - Arena - This class represents a multi Agents Arena which move on a graph - grabs Pokemons.
- - CL_Agent - This class represents the creation of an agent and its properties (speed, distance ..)
- - CL_Pokemon - This class represents the creation of an pokemons and its properties .
- - MyFrame - This class extends JFarame and represents GUI game on a graph.
- - MyPanel - This class extends JFarame and represents the creation of the graph, agent, and Pokemon (as icons) for the game.
- - Ex2.java - The main class , represents the initialization of the graph, running the game and the algorithm for maximum score.
+ - **Arena** - This class represents a multi Agents Arena which move on a graph - grabs Pokemons.
+ - **CL_Agent** - This class represents the creation of an agent and its properties (speed, distance ..)
+ - **CL_Pokemon** - This class represents the creation of an pokemons and its properties .
+ - **MyFrame** - This class extends JFarame and represents GUI game on a graph.
+ - **MyPanel** - This class extends JFarame and represents the creation of the graph, agent, and Pokemon (as icons) for the game.
+ - **Ex2.java** - The main class , represents the initialization of the graph, running the game and the algorithm for maximum score.
+
+##  "How to play ?" .
+ first step : Enter your ID : 
+ ![WhatsApp Image 2020-12-21 at 00 23 20](https://user-images.githubusercontent.com/74238558/102725969-889f7500-4323-11eb-97e5-b73edd0a4cbc.jpeg)
+
+Second step : choose level:
+![WhatsApp Image 2020-12-21 at 00 23 35](https://user-images.githubusercontent.com/74238558/102725987-ac62bb00-4323-11eb-9a39-806ee3426a7c.jpeg)
+
+The game is runninig ! 
+![WhatsApp Image 2020-12-21 at 00 24 32](https://user-images.githubusercontent.com/74238558/102726007-cf8d6a80-4323-11eb-8bab-06ee8d4b7fc6.jpeg)
+
+
+
+
+##  "Results" :
+| level|  moves| grade| 
+|--|--|--|
+| 0|283|147
+| 1|610|585
+| 2|283|269
+| 3|605|897
+| 4|282|224
+| 5|599|660
+| 6|600|410
+| 7|600|410
+| 8|299|85
+| 9|556|585
+| 10|546|597
+| 11|599|2132
+| 12|279|80
+|13 |599|349
+| 14|281|125
+| 15|596|452
+| 16|298|287
+| 17|616|1009
+| 18|282|40
+| 19|566|363
+| 20|281|187
+| 21|615|381
+| 22|403|292
+| 23|679|1201
+
+
+
+
 
 
 ## Sources and links 
