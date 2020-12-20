@@ -31,8 +31,8 @@ In this class i implements the interfaces - directed_weighted_graph and  Seriali
 
 | Name |  Description|
 |--|--|
-| NodeInfo () |  Constructor|
-| NodeInfo(int k) | Constructor that got a key   |
+| NodeData () |  Constructor|
+| NodeData(int k) | Constructor that got a key   |
 | getKey() | Returns the nodes key |
 | getInfo() | Returns the nodes String |
 | setInfo(String s) | Set the info nodes |
