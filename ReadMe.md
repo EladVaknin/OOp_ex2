@@ -109,12 +109,15 @@ For the purpose of creating the GUI we implemented the myPanel and myFarme class
 
 ##  "How to play ?" .
  first step : Enter your ID : 
+ 
  ![WhatsApp Image 2020-12-21 at 00 23 20](https://user-images.githubusercontent.com/74238558/102725969-889f7500-4323-11eb-97e5-b73edd0a4cbc.jpeg)
 
 Second step : choose level:
+
 ![WhatsApp Image 2020-12-21 at 00 23 35](https://user-images.githubusercontent.com/74238558/102725987-ac62bb00-4323-11eb-9a39-806ee3426a7c.jpeg)
 
 The game is runninig ! 
+
 ![WhatsApp Image 2020-12-21 at 00 24 32](https://user-images.githubusercontent.com/74238558/102726007-cf8d6a80-4323-11eb-8bab-06ee8d4b7fc6.jpeg)
 
 
